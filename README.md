@@ -16,6 +16,7 @@ This repository consist of:
 
 The directory structure is as follows:
 
+```console
 ├── data
 │   ├── annotations
 │   ├── extracted_timeseries.zip --> extracted timeseries
@@ -28,6 +29,7 @@ The directory structure is as follows:
 └── scripts
     └── hmm_new
         └── HMM-MAR-master --> a clone of the HMM-MAR repository version 
+```
 
  
  
